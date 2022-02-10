@@ -2,7 +2,7 @@
 
 | Categoria                | Documentados | Total de problemas |
 | ------------------------ | -----------: | -----------------: |
-| Iniciante                |            0 |                336 |
+| Iniciante                |           32 |                336 |
 | Ad-Hoc                   |            0 |                732 |
 | Strings                  |            0 |                148 |
 | Estruturas e Bibliotecas |            0 |                179 |
