@@ -4,7 +4,7 @@ A [Beecrowd](https://www.beecrowd.com.br) é uma plataforma que conta com divers
 
 | Categoria                                                                                  | Documentados | Total de problemas |
 | ------------------------------------------------------------------------------------------ | -----------: | -----------------: |
-| [Iniciante](https://github.com/RuaN369/beecrowd/tree/main/CSharp/Iniciante)                |           36 |                335 |
+| [Iniciante](https://github.com/RuaN369/beecrowd/tree/main/CSharp/Iniciante)                |           50 |                335 |
 | Ad-Hoc                                                                                     |            0 |                732 |
 | Strings                                                                                    |            0 |                148 |
 | Estruturas e Bibliotecas                                                                   |            0 |                179 |
